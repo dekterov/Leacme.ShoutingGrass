@@ -5,6 +5,7 @@
 This application features the ability to simulate a field at sunset.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71704052-4a691880-2d95-11ea-937b-9dd4d28c4116.png)
 
 ## Application Compiling
 
